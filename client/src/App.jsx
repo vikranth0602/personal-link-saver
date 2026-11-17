@@ -46,6 +46,7 @@ function App() {
       <p>Keep your useful links in one place.</p>
 
       <h2>Save a new link</h2>
+      <h2>GIT Practice</h2>
 
       <input
         type="text"
