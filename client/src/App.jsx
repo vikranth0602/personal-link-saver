@@ -74,6 +74,7 @@ function App() {
       <input
         type="text"
         placeholder="Search saved links..."
+        aria-label="Search saved links"
         value={search}
         onChange={(event) => setSearch(event.target.value)}
       />
